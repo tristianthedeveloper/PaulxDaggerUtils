@@ -1,0 +1,10 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.paul.extensions.mixin",
+  "refmap": "refmap.paulxdagger.json",
+  "mixins": [
+    "MixinCommandTP"
+  ],
+  "client": [],
+  "server": []
+}
